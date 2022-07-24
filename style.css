@@ -27,6 +27,7 @@ a {
   color: rgb(255, 142, 223);
   font-family: serif;
 }
+
 a::after {
   position: absolute;
   bottom: 0;
@@ -94,6 +95,10 @@ button {
 
 /* 背景虹移動 */
 /* borderradious:左上スタートで時計回り */
+
+.thanks {
+  text-align: center;
+}
 
 footer {
   background-color: rgb(100, 100, 100);
